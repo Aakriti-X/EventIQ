@@ -1,0 +1,41 @@
+Event_ID,Event_Name,Event_Type,Event_Date,Capacity,Registrations,Planned_Attendance,Actual_Attendance,Planned_Budget,Actual_Cost,Planned_Duration_Days,Actual_Duration_Days,Average_Feedback
+E001,AI Workshop,Workshop,2026-01-17,75,53,48,44,15000,15083,5,5,4.44
+E002,AI Hackathon,Hackathon,2026-01-24,100,100,79,81,15000,13619,1,1,4.55
+E003,Data Science Workshop,Workshop,2026-01-31,50,50,38,44,8000,7876,1,1,3.47
+E004,Web Development Workshop,Workshop,2026-02-07,200,224,168,150,5000,4793,3,3,4.4
+E005,IoT Technical Talk,Technical Talk,2026-02-14,150,172,124,122,5000,4178,1,1,3.79
+E006,Entrepreneurship Seminar,Seminar,2026-02-21,150,100,78,95,8000,7495,5,4,4.16
+E007,Tech Quiz,Competition,2026-02-28,200,229,195,218,10000,11867,7,8,4.52
+E008,Quiz Competition,Competition,2026-03-07,100,63,49,46,15000,15549,5,6,5.0
+E009,Data Science Workshop,Workshop,2026-03-14,200,211,173,210,15000,12705,3,3,3.9
+E010,Python Workshop,Workshop,2026-03-21,250,283,227,247,10000,8017,1,2,4.22
+E011,Cyber Security Talk,Technical Talk,2026-03-28,250,169,141,145,25000,19288,3,2,3.88
+E012,College Hackathon,Hackathon,2026-04-04,75,49,38,34,20000,17089,1,1,2.75
+E013,Project Competition,Competition,2026-04-11,250,168,135,168,25000,22078,5,5,3.77
+E014,Competitive Programming Contest,Coding Contest,2026-04-18,50,57,49,41,8000,6489,1,1,4.27
+E015,Code Challenge,Coding Contest,2026-04-25,250,204,152,148,10000,9196,2,2,4.57
+E016,Cyber Security Talk,Technical Talk,2026-05-02,200,151,112,118,5000,5146,3,2,4.06
+E017,Career Seminar,Seminar,2026-05-09,200,131,103,100,8000,9102,7,8,4.38
+E018,Entrepreneurship Seminar,Seminar,2026-05-16,250,173,124,133,8000,7218,2,2,3.75
+E019,Entrepreneurship Seminar,Seminar,2026-05-23,250,272,236,235,20000,19879,7,8,4.76
+E020,Cyber Security Talk,Technical Talk,2026-05-30,200,204,154,155,5000,5851,3,2,3.22
+E021,Innovation Hackathon,Hackathon,2026-06-06,100,72,55,50,25000,22447,1,2,3.77
+E022,Web Development Workshop,Workshop,2026-06-13,200,131,98,106,15000,12758,5,5,4.31
+E023,Tech Quiz,Competition,2026-06-20,75,83,60,59,25000,23182,2,2,3.31
+E024,Career Seminar,Seminar,2026-06-27,100,90,68,59,15000,14730,2,2,4.02
+E025,Code Challenge,Coding Contest,2026-07-04,200,172,125,115,10000,9957,1,1,3.86
+E026,AI Workshop,Workshop,2026-07-11,250,285,259,227,5000,4529,3,3,4.42
+E027,Innovation Hackathon,Hackathon,2026-07-18,50,40,34,33,20000,19023,3,2,4.93
+E028,Cloud Computing Talk,Technical Talk,2026-07-25,100,97,69,65,10000,13392,3,3,5.0
+E029,Cyber Security Talk,Technical Talk,2026-08-01,75,68,57,60,20000,19740,7,6,3.98
+E030,Quiz Competition,Competition,2026-08-08,100,72,64,60,10000,10419,5,5,4.16
+E031,Code Challenge,Coding Contest,2026-08-15,200,142,113,118,5000,5381,2,3,3.64
+E032,Project Competition,Competition,2026-08-22,100,94,81,83,10000,8837,2,1,4.21
+E033,Innovation Hackathon,Hackathon,2026-08-29,75,78,63,65,10000,9512,3,4,4.34
+E034,Code Challenge,Coding Contest,2026-09-05,50,57,49,48,25000,26863,3,3,4.02
+E035,Industry Seminar,Seminar,2026-09-12,200,122,86,88,20000,20060,1,1,4.06
+E036,Web Development Workshop,Workshop,2026-09-19,75,71,61,55,5000,4706,7,8,3.98
+E037,Project Competition,Competition,2026-09-26,200,165,134,123,5000,5275,3,3,4.46
+E038,Cloud Computing Talk,Technical Talk,2026-10-03,200,140,109,122,10000,10842,5,5,4.16
+E039,Industry Seminar,Seminar,2026-10-10,150,163,138,152,8000,8208,2,2,3.46
+E040,AI Workshop,Workshop,2026-10-17,100,92,71,61,10000,9578,3,4,4.2

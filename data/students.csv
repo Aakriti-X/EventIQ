@@ -1,0 +1,1001 @@
+Student_ID,Department,Year,Gender,Previous_Events_Attended,Previous_Attendance_Rate,Technical_Interest
+S0001,IT,1,Male,7,68.8,High
+S0002,Electrical,2,Male,3,58.5,High
+S0003,Mechanical,4,Female,4,99.0,Low
+S0004,Electronics,3,Male,3,93.7,Medium
+S0005,Computer Engineering,4,Male,3,95.1,Low
+S0006,Computer Engineering,3,Female,6,88.1,High
+S0007,Computer Engineering,3,Male,3,86.6,High
+S0008,Civil,4,Female,3,83.2,Low
+S0009,Electronics,1,Male,3,46.1,Low
+S0010,Mechanical,2,Male,5,81.3,Medium
+S0011,Computer Engineering,1,Male,3,91.7,Medium
+S0012,Electrical,4,Male,4,87.9,Low
+S0013,Civil,4,Female,3,86.1,Medium
+S0014,Computer Engineering,1,Male,3,80.0,Medium
+S0015,Computer Engineering,3,Male,6,85.0,Low
+S0016,Computer Engineering,4,Male,4,65.6,High
+S0017,IT,1,Male,7,74.2,High
+S0018,Electronics,3,Female,0,92.8,High
+S0019,IT,4,Male,6,76.1,High
+S0020,IT,1,Female,3,70.6,Medium
+S0021,Electronics,3,Female,4,79.8,Medium
+S0022,Computer Engineering,2,Male,3,85.6,Medium
+S0023,IT,4,Female,5,71.6,High
+S0024,IT,4,Male,3,92.0,High
+S0025,IT,4,Male,2,94.2,High
+S0026,Civil,2,Male,1,57.9,High
+S0027,Computer Engineering,4,Female,4,67.0,Medium
+S0028,Electronics,4,Other,9,76.3,Medium
+S0029,Electronics,2,Male,2,95.1,Medium
+S0030,Computer Engineering,4,Female,6,58.3,Low
+S0031,Electronics,1,Male,5,84.3,Low
+S0032,Computer Engineering,3,Male,3,51.6,Medium
+S0033,Computer Engineering,1,Male,3,78.5,Medium
+S0034,Electrical,1,Female,2,94.9,Medium
+S0035,Electrical,1,Male,4,84.0,Medium
+S0036,Civil,3,Male,3,36.1,Medium
+S0037,IT,2,Male,1,79.4,Medium
+S0038,Computer Engineering,3,Male,5,44.8,Medium
+S0039,Mechanical,1,Male,4,83.5,Medium
+S0040,IT,2,Male,7,80.7,High
+S0041,Computer Engineering,2,Female,4,96.9,Medium
+S0042,Electronics,3,Male,7,92.8,Medium
+S0043,Computer Engineering,2,Male,4,62.9,High
+S0044,Electrical,3,Male,3,59.0,High
+S0045,Computer Engineering,4,Female,0,47.0,High
+S0046,Mechanical,3,Female,4,82.5,Medium
+S0047,IT,1,Male,1,69.1,Low
+S0048,Electronics,1,Female,3,90.6,Medium
+S0049,Electronics,4,Male,3,94.5,Medium
+S0050,Computer Engineering,1,Male,2,73.4,High
+S0051,Electrical,4,Male,5,69.8,Medium
+S0052,Civil,2,Male,5,71.0,Low
+S0053,Electrical,4,Male,5,91.3,Low
+S0054,Electrical,3,Female,3,90.2,Low
+S0055,Electronics,4,Female,4,78.7,Medium
+S0056,Electrical,2,Female,0,88.0,High
+S0057,Computer Engineering,3,Male,3,95.6,High
+S0058,Computer Engineering,2,Male,3,84.7,High
+S0059,Computer Engineering,2,Female,8,87.9,Medium
+S0060,IT,3,Male,4,91.2,Medium
+S0061,IT,4,Male,4,96.5,Medium
+S0062,Computer Engineering,4,Male,4,85.1,Medium
+S0063,Civil,3,Female,2,81.2,High
+S0064,IT,2,Male,5,82.3,Medium
+S0065,IT,2,Male,2,44.2,High
+S0066,Electronics,3,Female,5,86.3,Medium
+S0067,Computer Engineering,1,Male,3,67.7,Low
+S0068,Civil,1,Male,4,91.4,Low
+S0069,Computer Engineering,2,Male,6,88.8,Medium
+S0070,Electrical,2,Male,3,84.6,High
+S0071,Civil,2,Female,9,90.4,Medium
+S0072,Computer Engineering,1,Male,4,80.8,High
+S0073,Computer Engineering,1,Male,4,82.5,High
+S0074,Civil,1,Female,1,42.8,Medium
+S0075,Mechanical,4,Female,7,77.7,High
+S0076,Mechanical,2,Female,4,90.0,Medium
+S0077,Civil,2,Male,4,96.8,Medium
+S0078,Computer Engineering,3,Male,4,52.3,High
+S0079,IT,1,Other,3,87.3,High
+S0080,Computer Engineering,4,Female,1,97.1,Medium
+S0081,Civil,3,Male,3,82.7,Medium
+S0082,Mechanical,1,Male,9,89.7,Low
+S0083,IT,2,Male,2,77.7,Medium
+S0084,Computer Engineering,4,Female,7,93.2,Medium
+S0085,IT,4,Male,2,82.9,High
+S0086,IT,2,Male,5,25.8,Medium
+S0087,Mechanical,3,Male,0,42.4,Low
+S0088,Mechanical,1,Female,3,78.6,Medium
+S0089,Electrical,4,Female,9,62.5,Medium
+S0090,IT,1,Male,6,77.5,Medium
+S0091,Computer Engineering,4,Female,8,89.7,Medium
+S0092,Mechanical,3,Female,5,89.7,High
+S0093,Civil,3,Male,5,71.4,Low
+S0094,Electronics,2,Male,5,66.2,Medium
+S0095,Civil,1,Male,2,77.4,High
+S0096,Electronics,1,Female,9,80.6,Medium
+S0097,Electronics,1,Male,5,65.3,Medium
+S0098,IT,1,Female,1,74.8,Medium
+S0099,Computer Engineering,3,Female,4,84.0,Medium
+S0100,Computer Engineering,2,Male,5,56.4,Medium
+S0101,Computer Engineering,1,Female,3,83.7,Medium
+S0102,Mechanical,4,Male,5,77.3,High
+S0103,IT,4,Male,3,87.5,High
+S0104,Electronics,4,Female,4,72.3,Medium
+S0105,Electrical,4,Female,3,50.1,Low
+S0106,Computer Engineering,1,Male,1,70.6,Low
+S0107,IT,2,Female,5,77.2,Low
+S0108,Mechanical,3,Female,3,83.2,Medium
+S0109,Computer Engineering,3,Male,2,84.2,Low
+S0110,Computer Engineering,1,Other,2,58.4,Medium
+S0111,IT,4,Male,4,90.5,High
+S0112,Computer Engineering,1,Male,2,84.4,Medium
+S0113,Electrical,1,Male,4,81.3,High
+S0114,Civil,2,Female,3,81.8,High
+S0115,Mechanical,3,Female,2,90.6,Medium
+S0116,Civil,3,Male,3,91.0,High
+S0117,Civil,1,Male,10,68.7,High
+S0118,Computer Engineering,4,Male,4,78.8,Medium
+S0119,Electrical,1,Male,5,73.3,Medium
+S0120,Electronics,1,Female,3,82.7,Medium
+S0121,Civil,4,Female,4,87.0,High
+S0122,Electrical,4,Male,4,74.4,Medium
+S0123,IT,4,Female,3,73.9,Low
+S0124,Computer Engineering,4,Male,6,79.8,Medium
+S0125,Computer Engineering,3,Other,3,82.8,Medium
+S0126,IT,3,Female,5,75.1,Medium
+S0127,Civil,1,Female,3,91.4,High
+S0128,Civil,2,Male,0,92.3,Medium
+S0129,Computer Engineering,2,Female,6,60.8,High
+S0130,Electronics,1,Male,3,64.1,High
+S0131,IT,3,Male,2,85.7,Medium
+S0132,Computer Engineering,2,Male,5,94.0,Low
+S0133,Computer Engineering,1,Male,6,78.9,High
+S0134,IT,1,Male,1,67.1,High
+S0135,Electrical,3,Female,6,78.9,Low
+S0136,IT,1,Female,2,87.7,Medium
+S0137,Electronics,4,Male,2,73.9,Medium
+S0138,Mechanical,2,Female,2,66.3,High
+S0139,IT,2,Male,3,77.2,High
+S0140,Electrical,3,Female,4,81.6,Low
+S0141,Electrical,4,Female,3,85.5,High
+S0142,Computer Engineering,2,Male,3,82.7,Low
+S0143,Electronics,3,Female,1,86.5,High
+S0144,IT,3,Male,4,96.1,Medium
+S0145,IT,1,Male,7,71.2,Medium
+S0146,Computer Engineering,4,Female,6,77.9,Low
+S0147,Electronics,3,Male,6,81.4,Low
+S0148,Electronics,3,Male,5,66.3,Medium
+S0149,Computer Engineering,4,Male,3,87.6,Medium
+S0150,Computer Engineering,4,Female,2,57.1,Low
+S0151,Electrical,3,Male,5,95.5,Low
+S0152,Computer Engineering,4,Male,6,89.6,Low
+S0153,Computer Engineering,3,Female,0,59.1,High
+S0154,Electronics,3,Female,6,73.8,High
+S0155,Electrical,3,Male,3,77.4,Low
+S0156,Computer Engineering,3,Male,4,91.0,Medium
+S0157,Mechanical,1,Male,4,70.9,Low
+S0158,Civil,4,Male,3,96.9,High
+S0159,Computer Engineering,4,Male,10,43.3,High
+S0160,Mechanical,1,Female,1,93.5,Medium
+S0161,IT,4,Female,5,97.0,High
+S0162,Mechanical,1,Female,2,75.7,High
+S0163,Mechanical,2,Male,2,95.5,High
+S0164,Electronics,3,Female,3,90.0,Medium
+S0165,Computer Engineering,1,Male,7,83.3,Medium
+S0166,Civil,4,Female,1,55.6,Medium
+S0167,IT,4,Female,2,82.9,Medium
+S0168,Computer Engineering,2,Male,4,84.2,Medium
+S0169,Computer Engineering,1,Female,6,83.5,Low
+S0170,Electronics,2,Male,1,96.5,Medium
+S0171,Mechanical,3,Female,4,87.2,Medium
+S0172,Computer Engineering,4,Male,6,69.5,Medium
+S0173,Electronics,3,Male,3,87.6,Medium
+S0174,Computer Engineering,1,Female,5,93.3,High
+S0175,Mechanical,3,Male,3,65.6,High
+S0176,Computer Engineering,2,Female,4,69.1,Medium
+S0177,Mechanical,3,Male,6,72.3,Medium
+S0178,IT,1,Female,2,69.3,Medium
+S0179,Electrical,3,Female,3,90.0,Low
+S0180,Computer Engineering,2,Male,3,90.2,High
+S0181,IT,4,Male,4,93.5,Medium
+S0182,Computer Engineering,2,Male,9,87.4,Low
+S0183,Electrical,3,Male,6,72.5,High
+S0184,Civil,4,Male,6,87.7,Low
+S0185,Computer Engineering,1,Female,5,90.1,Medium
+S0186,Mechanical,4,Female,1,69.6,Low
+S0187,Civil,3,Female,0,77.4,Low
+S0188,Electronics,1,Female,9,76.3,Low
+S0189,Electronics,2,Female,2,85.6,Low
+S0190,Computer Engineering,3,Female,5,84.5,Medium
+S0191,Computer Engineering,1,Male,4,90.7,High
+S0192,Electrical,3,Female,2,65.6,Medium
+S0193,Electrical,2,Female,4,66.4,High
+S0194,Mechanical,3,Male,0,87.1,Medium
+S0195,IT,1,Male,3,95.1,Medium
+S0196,IT,4,Male,3,81.8,Low
+S0197,Mechanical,4,Male,4,70.6,Medium
+S0198,Electrical,4,Female,2,88.1,Medium
+S0199,Electrical,3,Male,1,59.8,Medium
+S0200,Civil,1,Male,0,53.7,High
+S0201,Mechanical,3,Female,2,46.6,Medium
+S0202,Computer Engineering,1,Male,6,82.3,Medium
+S0203,Computer Engineering,1,Male,3,59.0,High
+S0204,Electrical,2,Male,4,70.0,Medium
+S0205,Electronics,2,Female,4,85.8,Medium
+S0206,Computer Engineering,3,Female,2,80.7,High
+S0207,Computer Engineering,3,Male,3,86.2,Medium
+S0208,Mechanical,2,Female,3,83.3,Low
+S0209,Computer Engineering,1,Male,4,75.9,Medium
+S0210,Computer Engineering,4,Female,4,94.3,Medium
+S0211,Electronics,2,Female,1,82.0,Medium
+S0212,Mechanical,2,Female,5,91.1,Low
+S0213,Mechanical,1,Male,3,76.2,High
+S0214,Computer Engineering,3,Female,6,64.7,High
+S0215,Mechanical,3,Female,3,87.6,Medium
+S0216,Computer Engineering,1,Male,8,80.4,Medium
+S0217,IT,1,Female,4,88.4,High
+S0218,Mechanical,3,Male,8,80.2,Low
+S0219,Mechanical,3,Female,4,61.2,Medium
+S0220,Civil,1,Male,4,82.4,Medium
+S0221,Mechanical,4,Female,5,53.5,High
+S0222,Electronics,1,Male,5,35.6,Low
+S0223,Computer Engineering,2,Male,4,92.5,High
+S0224,IT,4,Male,2,82.5,Medium
+S0225,Computer Engineering,2,Male,3,68.3,Medium
+S0226,Computer Engineering,3,Male,5,89.5,Medium
+S0227,Electrical,2,Male,0,73.3,Low
+S0228,IT,1,Male,2,73.2,High
+S0229,Electrical,4,Male,4,96.1,High
+S0230,Mechanical,2,Male,4,97.4,Medium
+S0231,Civil,4,Female,3,80.6,High
+S0232,Electronics,1,Male,4,99.6,High
+S0233,Electronics,1,Female,9,75.1,Medium
+S0234,Electronics,1,Female,0,97.1,Medium
+S0235,Computer Engineering,3,Female,4,97.6,Medium
+S0236,Mechanical,2,Male,0,69.4,Medium
+S0237,IT,4,Female,5,78.2,Low
+S0238,Computer Engineering,2,Male,4,94.7,Medium
+S0239,Mechanical,4,Male,4,97.3,Low
+S0240,Computer Engineering,1,Male,3,54.3,High
+S0241,Electrical,4,Female,5,93.5,High
+S0242,Electrical,3,Male,4,93.3,Medium
+S0243,Electrical,3,Male,2,94.2,Medium
+S0244,IT,4,Other,7,82.9,Medium
+S0245,Computer Engineering,3,Female,5,92.4,Medium
+S0246,Electrical,3,Male,2,75.8,Medium
+S0247,IT,1,Male,8,81.6,Medium
+S0248,Electrical,1,Female,1,86.8,Medium
+S0249,Electrical,4,Male,4,56.2,Low
+S0250,Civil,3,Male,4,86.9,Low
+S0251,IT,3,Male,1,88.3,Low
+S0252,IT,2,Female,3,69.0,High
+S0253,Civil,1,Female,3,96.3,High
+S0254,IT,1,Female,6,84.3,Medium
+S0255,Computer Engineering,3,Female,4,79.4,Medium
+S0256,Electronics,2,Male,4,89.6,Low
+S0257,Electrical,1,Male,1,83.2,Medium
+S0258,Mechanical,2,Male,6,94.8,Low
+S0259,Electronics,1,Male,3,87.8,Medium
+S0260,Computer Engineering,3,Male,3,77.6,High
+S0261,Electronics,1,Female,3,75.8,Low
+S0262,Electrical,3,Male,4,88.3,High
+S0263,Computer Engineering,2,Female,6,53.1,Low
+S0264,Electronics,2,Male,7,92.2,Medium
+S0265,Civil,1,Male,2,92.1,Low
+S0266,Mechanical,1,Female,3,72.9,Medium
+S0267,Mechanical,2,Male,3,59.0,Low
+S0268,Mechanical,2,Female,4,83.3,Medium
+S0269,IT,3,Male,4,42.7,Medium
+S0270,IT,2,Male,3,87.3,Medium
+S0271,Civil,3,Male,5,91.4,Medium
+S0272,Civil,4,Male,5,71.6,High
+S0273,Civil,3,Male,4,77.3,Medium
+S0274,Electrical,1,Female,8,79.8,Low
+S0275,Electronics,2,Female,4,78.4,Medium
+S0276,Electronics,1,Male,3,85.8,High
+S0277,Civil,1,Female,5,83.2,Medium
+S0278,Mechanical,4,Male,9,64.2,Medium
+S0279,Mechanical,1,Female,5,76.5,Low
+S0280,Civil,2,Male,2,74.8,Medium
+S0281,Electrical,3,Male,5,77.8,Medium
+S0282,IT,3,Male,2,77.8,High
+S0283,IT,3,Male,2,96.2,High
+S0284,Computer Engineering,1,Male,5,89.0,Low
+S0285,Electronics,2,Male,2,82.7,Medium
+S0286,Computer Engineering,2,Male,5,78.7,Medium
+S0287,IT,1,Female,1,86.2,Medium
+S0288,Electronics,2,Male,3,85.7,High
+S0289,IT,1,Male,3,71.1,Medium
+S0290,Electronics,1,Male,2,77.9,Medium
+S0291,Computer Engineering,2,Male,6,56.2,Medium
+S0292,Computer Engineering,1,Male,2,85.7,High
+S0293,Civil,3,Male,0,86.1,Medium
+S0294,IT,3,Male,5,65.8,Medium
+S0295,Computer Engineering,4,Male,2,67.3,Medium
+S0296,Electronics,1,Male,5,47.7,Medium
+S0297,Civil,1,Male,1,81.0,High
+S0298,Computer Engineering,1,Male,5,90.5,Medium
+S0299,Mechanical,3,Male,5,48.9,Medium
+S0300,Computer Engineering,3,Male,5,80.3,Medium
+S0301,Computer Engineering,1,Female,8,79.1,High
+S0302,Electronics,4,Male,4,72.2,Medium
+S0303,Electronics,1,Male,5,86.5,Low
+S0304,Mechanical,2,Male,6,57.0,Medium
+S0305,Mechanical,3,Female,5,83.7,Medium
+S0306,Electrical,4,Male,4,53.1,High
+S0307,Electronics,3,Male,2,88.5,High
+S0308,IT,4,Male,7,66.7,Medium
+S0309,Civil,2,Male,2,50.9,Low
+S0310,Computer Engineering,4,Male,4,65.6,High
+S0311,IT,1,Male,3,90.3,Medium
+S0312,Computer Engineering,4,Female,4,76.8,Medium
+S0313,Computer Engineering,2,Male,5,82.0,Medium
+S0314,Electrical,4,Female,2,40.9,Medium
+S0315,Civil,2,Other,7,71.8,Medium
+S0316,Mechanical,3,Male,2,75.5,High
+S0317,IT,2,Male,5,70.4,High
+S0318,Computer Engineering,3,Male,1,80.2,Medium
+S0319,Computer Engineering,1,Male,3,93.0,Medium
+S0320,Computer Engineering,1,Male,1,64.9,Low
+S0321,Electronics,1,Female,4,73.8,Low
+S0322,Mechanical,1,Female,5,61.4,Medium
+S0323,Mechanical,4,Male,5,70.2,Medium
+S0324,Computer Engineering,1,Male,3,78.7,High
+S0325,Electrical,4,Female,4,93.6,High
+S0326,Mechanical,2,Female,4,38.3,Medium
+S0327,Electronics,1,Female,9,87.9,Medium
+S0328,Electronics,3,Male,5,91.2,Low
+S0329,IT,3,Female,5,81.2,High
+S0330,Computer Engineering,2,Male,7,69.5,Medium
+S0331,IT,3,Male,3,32.8,Low
+S0332,Mechanical,3,Male,2,92.3,Medium
+S0333,Computer Engineering,1,Male,7,80.8,High
+S0334,Computer Engineering,4,Female,7,92.1,High
+S0335,Computer Engineering,4,Male,5,84.0,Low
+S0336,Computer Engineering,3,Male,6,87.8,High
+S0337,Civil,1,Male,5,54.7,Medium
+S0338,Mechanical,3,Male,2,66.9,Low
+S0339,IT,1,Male,5,92.1,High
+S0340,Computer Engineering,1,Male,7,94.6,High
+S0341,Electronics,1,Female,6,87.2,Medium
+S0342,IT,2,Male,2,68.4,Medium
+S0343,Computer Engineering,4,Male,6,80.0,High
+S0344,IT,3,Male,3,68.9,High
+S0345,IT,3,Female,5,96.0,High
+S0346,Electronics,2,Female,4,98.3,Medium
+S0347,Mechanical,2,Female,2,92.7,High
+S0348,Computer Engineering,2,Male,5,84.1,High
+S0349,IT,4,Male,6,61.5,Low
+S0350,Mechanical,1,Male,6,74.8,High
+S0351,Electronics,4,Female,3,93.0,Medium
+S0352,Civil,3,Female,4,68.0,Medium
+S0353,Mechanical,2,Male,4,58.4,Medium
+S0354,Computer Engineering,3,Female,5,81.7,Low
+S0355,Computer Engineering,2,Female,2,86.1,Medium
+S0356,Mechanical,4,Male,1,70.9,High
+S0357,Computer Engineering,4,Female,1,94.6,Medium
+S0358,Electronics,2,Male,7,64.2,Medium
+S0359,Electrical,1,Male,7,68.5,High
+S0360,Electronics,3,Male,5,85.9,Medium
+S0361,IT,4,Male,5,73.2,Medium
+S0362,Mechanical,1,Male,2,88.3,Medium
+S0363,IT,3,Male,1,86.4,Medium
+S0364,Electronics,3,Male,6,96.5,Medium
+S0365,Electrical,3,Male,3,60.8,High
+S0366,IT,1,Male,3,85.4,Medium
+S0367,Electrical,3,Male,3,86.8,High
+S0368,Electrical,4,Male,2,69.5,Medium
+S0369,Computer Engineering,1,Male,4,60.9,Medium
+S0370,Computer Engineering,1,Female,3,78.5,Medium
+S0371,Computer Engineering,4,Female,7,81.9,High
+S0372,Computer Engineering,1,Female,4,68.4,Medium
+S0373,Computer Engineering,4,Female,3,77.2,Low
+S0374,Mechanical,2,Male,5,72.9,Low
+S0375,Computer Engineering,1,Female,2,72.6,Medium
+S0376,IT,4,Male,4,92.8,Medium
+S0377,Civil,2,Male,3,54.2,Medium
+S0378,Computer Engineering,2,Female,5,77.4,Low
+S0379,Civil,2,Male,2,54.9,High
+S0380,IT,3,Female,6,83.8,Medium
+S0381,Computer Engineering,1,Female,3,61.4,Medium
+S0382,Mechanical,2,Female,4,78.7,Medium
+S0383,Mechanical,4,Female,5,87.3,Medium
+S0384,Civil,1,Male,4,95.0,High
+S0385,Mechanical,3,Male,4,93.3,Low
+S0386,Civil,2,Male,2,86.0,Medium
+S0387,IT,3,Male,3,92.5,High
+S0388,Computer Engineering,1,Male,2,50.5,Medium
+S0389,Mechanical,4,Female,1,82.2,Medium
+S0390,Civil,2,Female,3,97.6,Medium
+S0391,Electrical,1,Male,4,64.6,High
+S0392,IT,1,Male,4,89.3,High
+S0393,IT,1,Male,7,62.5,High
+S0394,Civil,2,Male,2,75.9,Medium
+S0395,IT,2,Female,5,59.8,High
+S0396,Electrical,4,Male,8,74.0,Low
+S0397,Civil,2,Male,9,68.3,Low
+S0398,IT,1,Male,2,67.8,High
+S0399,Mechanical,3,Female,4,76.7,Low
+S0400,Mechanical,3,Female,4,69.4,Low
+S0401,Computer Engineering,1,Male,6,83.2,Medium
+S0402,Electrical,1,Male,5,56.0,Medium
+S0403,Electronics,1,Male,1,79.0,High
+S0404,Civil,3,Male,2,57.3,Medium
+S0405,IT,3,Female,6,71.4,Medium
+S0406,Electrical,2,Male,5,64.3,Medium
+S0407,IT,4,Male,4,82.7,High
+S0408,Computer Engineering,4,Male,5,76.9,High
+S0409,Electrical,3,Other,4,55.4,Medium
+S0410,Computer Engineering,4,Male,4,94.1,High
+S0411,IT,1,Female,1,85.9,High
+S0412,Electrical,1,Male,8,83.8,Low
+S0413,Electrical,1,Male,2,73.7,Low
+S0414,Electronics,1,Male,4,70.2,Low
+S0415,Mechanical,2,Male,7,84.8,High
+S0416,IT,4,Female,6,68.8,Low
+S0417,IT,1,Male,3,93.0,Medium
+S0418,IT,1,Male,5,70.2,Low
+S0419,Mechanical,2,Male,5,74.9,High
+S0420,Mechanical,4,Male,3,69.2,Medium
+S0421,Civil,2,Male,3,44.4,High
+S0422,Civil,2,Male,5,70.9,High
+S0423,Computer Engineering,1,Female,1,82.5,Low
+S0424,Electronics,1,Male,4,66.9,Medium
+S0425,Computer Engineering,4,Male,2,47.0,Low
+S0426,Electronics,4,Female,1,97.1,High
+S0427,IT,1,Male,2,75.2,Medium
+S0428,Electrical,4,Female,4,86.5,Low
+S0429,IT,3,Male,4,67.1,Low
+S0430,Computer Engineering,4,Female,2,47.2,Medium
+S0431,Computer Engineering,2,Male,9,59.5,High
+S0432,Civil,2,Female,4,80.5,Medium
+S0433,Electronics,2,Other,5,93.4,High
+S0434,Computer Engineering,3,Male,4,75.0,Medium
+S0435,Computer Engineering,1,Female,3,79.5,Low
+S0436,Mechanical,1,Male,6,78.0,High
+S0437,Computer Engineering,2,Male,5,88.7,Low
+S0438,Civil,3,Male,5,40.7,High
+S0439,Mechanical,1,Male,4,74.4,Medium
+S0440,Computer Engineering,3,Male,4,55.5,Low
+S0441,Computer Engineering,4,Male,3,82.6,Medium
+S0442,Electrical,1,Male,1,90.4,High
+S0443,IT,3,Female,1,54.6,High
+S0444,IT,2,Female,5,96.2,Low
+S0445,Civil,4,Male,6,48.4,Low
+S0446,Electrical,1,Male,6,92.6,Medium
+S0447,Electrical,3,Male,3,95.1,Medium
+S0448,Mechanical,4,Male,6,37.2,High
+S0449,IT,4,Male,5,86.8,Low
+S0450,Computer Engineering,3,Male,6,87.4,High
+S0451,Civil,2,Male,1,47.8,Medium
+S0452,Electronics,3,Female,3,52.3,High
+S0453,IT,4,Male,3,60.4,Medium
+S0454,Electrical,3,Male,6,76.7,Medium
+S0455,Computer Engineering,1,Male,2,71.5,High
+S0456,Electronics,4,Male,9,80.2,Medium
+S0457,Computer Engineering,3,Male,4,79.4,High
+S0458,IT,3,Female,3,79.9,High
+S0459,Computer Engineering,1,Male,5,80.7,Medium
+S0460,Computer Engineering,3,Male,5,72.3,Medium
+S0461,Computer Engineering,2,Other,2,72.6,Low
+S0462,Mechanical,3,Female,3,87.0,Low
+S0463,Mechanical,1,Female,5,92.1,Medium
+S0464,Electronics,3,Male,4,72.6,Low
+S0465,Electrical,4,Female,3,92.0,Medium
+S0466,IT,1,Male,1,84.0,Medium
+S0467,IT,4,Male,4,81.9,Medium
+S0468,Civil,2,Male,2,58.1,Medium
+S0469,Computer Engineering,4,Male,8,68.9,Low
+S0470,Electrical,3,Male,7,83.0,Low
+S0471,Computer Engineering,3,Male,5,76.3,Medium
+S0472,Electrical,3,Female,2,76.5,Medium
+S0473,Computer Engineering,4,Female,4,91.0,Medium
+S0474,Electrical,2,Female,6,89.9,Medium
+S0475,Electronics,2,Male,3,97.5,High
+S0476,Electrical,3,Female,2,80.6,Medium
+S0477,Computer Engineering,4,Male,5,86.2,Medium
+S0478,Electronics,3,Female,5,85.9,High
+S0479,Electrical,3,Male,5,73.6,High
+S0480,Electronics,2,Female,5,71.0,Medium
+S0481,Mechanical,4,Male,6,85.8,Medium
+S0482,Mechanical,1,Female,4,62.0,Low
+S0483,IT,2,Female,0,94.6,Medium
+S0484,Mechanical,1,Male,6,62.1,High
+S0485,Electronics,2,Male,5,84.9,Medium
+S0486,Electrical,2,Other,6,76.1,High
+S0487,Computer Engineering,2,Male,6,87.1,Medium
+S0488,IT,3,Female,2,75.6,High
+S0489,Electrical,2,Male,2,65.3,Medium
+S0490,Electrical,2,Male,3,86.1,Low
+S0491,IT,1,Male,6,97.9,Medium
+S0492,Mechanical,2,Male,4,92.1,Medium
+S0493,Computer Engineering,1,Female,3,95.5,Low
+S0494,Computer Engineering,1,Male,3,69.6,High
+S0495,IT,3,Male,3,86.2,Medium
+S0496,IT,3,Male,4,91.4,High
+S0497,Electronics,3,Male,2,73.3,Medium
+S0498,Computer Engineering,2,Female,4,65.5,Low
+S0499,Electrical,2,Other,4,87.7,High
+S0500,Electrical,4,Male,6,89.5,Medium
+S0501,Mechanical,2,Female,2,80.6,Medium
+S0502,Electronics,2,Female,1,83.1,Medium
+S0503,IT,1,Male,5,97.4,Medium
+S0504,Civil,2,Female,5,84.8,High
+S0505,Mechanical,2,Male,6,96.0,Medium
+S0506,Computer Engineering,2,Male,6,88.0,Medium
+S0507,Electrical,3,Female,1,89.6,High
+S0508,Civil,2,Male,3,94.2,Low
+S0509,Electrical,3,Female,3,85.2,Medium
+S0510,Mechanical,3,Female,7,85.5,High
+S0511,Electronics,4,Male,6,72.7,Medium
+S0512,IT,3,Female,3,86.6,High
+S0513,Electrical,4,Male,4,77.0,Medium
+S0514,Civil,1,Male,1,92.2,High
+S0515,Computer Engineering,1,Female,4,87.8,High
+S0516,Computer Engineering,1,Female,4,89.6,Medium
+S0517,IT,3,Male,1,92.3,Low
+S0518,Civil,4,Male,2,51.3,Medium
+S0519,Electrical,1,Female,6,78.9,High
+S0520,Computer Engineering,4,Female,4,76.4,Medium
+S0521,Electronics,1,Female,2,79.7,Low
+S0522,IT,4,Male,7,83.1,Medium
+S0523,Electrical,2,Male,5,92.6,High
+S0524,Civil,1,Male,4,93.3,Medium
+S0525,Civil,2,Female,6,74.0,Medium
+S0526,IT,1,Male,7,65.8,Low
+S0527,IT,2,Male,3,81.6,Medium
+S0528,Computer Engineering,2,Female,5,68.3,Low
+S0529,Computer Engineering,4,Male,6,40.2,Low
+S0530,Civil,2,Other,2,80.6,High
+S0531,Civil,2,Female,5,92.7,High
+S0532,Electrical,3,Female,2,62.3,Low
+S0533,Electrical,3,Male,3,94.5,Low
+S0534,Electronics,1,Male,1,85.4,Medium
+S0535,Civil,2,Female,2,61.8,Medium
+S0536,Electrical,1,Female,3,91.0,Medium
+S0537,Civil,1,Female,3,87.6,Medium
+S0538,Computer Engineering,3,Male,6,49.6,Medium
+S0539,IT,1,Female,1,82.9,High
+S0540,Computer Engineering,2,Female,5,96.1,High
+S0541,Electrical,3,Female,6,85.4,Medium
+S0542,Electronics,1,Female,6,69.0,Medium
+S0543,Computer Engineering,3,Female,3,72.6,High
+S0544,Mechanical,1,Male,4,81.0,High
+S0545,Electronics,4,Male,5,43.3,Low
+S0546,IT,2,Male,4,78.8,Medium
+S0547,Computer Engineering,4,Male,4,87.3,Medium
+S0548,Mechanical,3,Male,4,70.2,Low
+S0549,Electronics,1,Male,4,79.0,Medium
+S0550,Civil,3,Male,5,78.4,Medium
+S0551,Electronics,4,Male,2,51.9,Medium
+S0552,Civil,3,Male,3,70.9,Medium
+S0553,Electronics,4,Female,2,93.4,Medium
+S0554,Electronics,4,Female,1,48.5,High
+S0555,Civil,1,Male,8,89.4,Medium
+S0556,IT,1,Female,1,87.3,Medium
+S0557,Computer Engineering,3,Male,10,77.4,Low
+S0558,Computer Engineering,2,Male,5,73.7,Low
+S0559,Mechanical,4,Male,6,91.7,Medium
+S0560,Mechanical,4,Male,3,53.6,Low
+S0561,Mechanical,2,Female,6,90.8,Low
+S0562,Computer Engineering,1,Female,4,87.4,Low
+S0563,Computer Engineering,3,Male,3,52.2,Medium
+S0564,Computer Engineering,1,Male,0,90.7,High
+S0565,IT,4,Male,5,58.3,Medium
+S0566,Electronics,2,Male,8,88.1,Medium
+S0567,IT,3,Male,2,87.4,Low
+S0568,IT,1,Male,3,89.9,Medium
+S0569,Electrical,3,Female,6,80.4,Medium
+S0570,IT,2,Female,1,84.3,Medium
+S0571,Electronics,3,Male,5,91.7,High
+S0572,Civil,1,Female,5,82.6,High
+S0573,IT,3,Male,7,65.6,Low
+S0574,Mechanical,4,Male,5,79.2,High
+S0575,Civil,1,Male,1,76.4,Low
+S0576,Electrical,1,Female,4,86.6,High
+S0577,Computer Engineering,1,Female,6,60.7,Medium
+S0578,Electrical,3,Male,1,59.3,Medium
+S0579,Electronics,3,Male,1,79.3,Low
+S0580,Computer Engineering,2,Female,2,43.3,Low
+S0581,IT,1,Male,6,59.6,High
+S0582,Electrical,2,Female,4,70.8,High
+S0583,Electronics,3,Male,5,67.9,Medium
+S0584,IT,2,Male,8,75.5,High
+S0585,Mechanical,4,Male,5,70.0,High
+S0586,Computer Engineering,1,Female,6,84.0,Medium
+S0587,Computer Engineering,3,Male,3,89.7,Low
+S0588,Computer Engineering,2,Female,3,80.5,Low
+S0589,Computer Engineering,2,Male,4,81.3,Medium
+S0590,Computer Engineering,3,Female,4,89.0,Medium
+S0591,Computer Engineering,3,Female,5,75.1,Low
+S0592,Mechanical,4,Female,4,66.7,Low
+S0593,Computer Engineering,1,Male,5,80.5,Low
+S0594,IT,1,Male,3,43.2,High
+S0595,Electrical,3,Male,1,32.2,Low
+S0596,IT,3,Female,3,96.7,Medium
+S0597,Mechanical,1,Male,3,93.1,Medium
+S0598,Computer Engineering,1,Male,3,83.9,Medium
+S0599,Computer Engineering,1,Male,6,78.8,Low
+S0600,Computer Engineering,4,Male,7,96.1,Medium
+S0601,Computer Engineering,1,Female,5,53.6,Low
+S0602,Computer Engineering,2,Male,4,92.5,Medium
+S0603,Computer Engineering,1,Female,2,83.3,Low
+S0604,Computer Engineering,2,Male,0,89.4,Medium
+S0605,Computer Engineering,1,Male,4,73.8,Medium
+S0606,IT,2,Male,3,76.2,Medium
+S0607,Computer Engineering,1,Male,5,91.2,Medium
+S0608,IT,4,Male,3,93.7,Medium
+S0609,Electronics,1,Female,4,73.7,High
+S0610,Mechanical,2,Male,6,72.7,Medium
+S0611,Computer Engineering,4,Female,3,75.4,High
+S0612,Civil,3,Male,3,90.1,High
+S0613,Mechanical,2,Male,4,82.5,Medium
+S0614,Computer Engineering,2,Female,5,31.4,Medium
+S0615,Civil,2,Male,5,64.3,Medium
+S0616,Electrical,3,Male,4,62.3,Low
+S0617,Computer Engineering,4,Male,8,63.8,Low
+S0618,Computer Engineering,3,Male,6,78.8,Low
+S0619,Civil,3,Female,4,89.8,Low
+S0620,Mechanical,3,Male,3,97.8,Medium
+S0621,Computer Engineering,2,Female,3,50.5,High
+S0622,Computer Engineering,1,Female,4,76.9,Medium
+S0623,IT,3,Male,4,84.5,High
+S0624,Electronics,4,Female,3,91.1,High
+S0625,Electronics,1,Male,4,81.2,High
+S0626,IT,3,Female,3,91.9,High
+S0627,IT,1,Male,5,84.6,Medium
+S0628,Mechanical,2,Female,2,77.1,Low
+S0629,Computer Engineering,1,Male,6,72.9,Medium
+S0630,Computer Engineering,2,Male,5,63.0,Medium
+S0631,Mechanical,3,Female,1,89.7,High
+S0632,Electrical,2,Female,5,64.8,High
+S0633,Electronics,3,Male,4,95.8,Medium
+S0634,Electronics,3,Male,0,72.0,Medium
+S0635,Computer Engineering,4,Female,5,86.4,Low
+S0636,IT,1,Female,4,67.9,Low
+S0637,Electronics,2,Female,6,87.7,Medium
+S0638,Computer Engineering,1,Female,1,62.1,Medium
+S0639,Computer Engineering,4,Female,2,84.8,High
+S0640,IT,4,Female,2,79.1,Medium
+S0641,Computer Engineering,2,Male,3,59.7,High
+S0642,IT,4,Male,3,66.6,Medium
+S0643,Computer Engineering,2,Female,1,95.8,High
+S0644,IT,3,Female,3,70.4,Low
+S0645,Computer Engineering,1,Male,3,50.5,High
+S0646,Electrical,3,Male,3,89.8,Medium
+S0647,Electronics,1,Female,2,96.8,Low
+S0648,Mechanical,4,Male,3,81.4,Low
+S0649,Civil,3,Male,6,82.7,High
+S0650,Electronics,3,Male,2,89.3,Low
+S0651,Computer Engineering,1,Male,4,53.1,Medium
+S0652,Electronics,2,Male,4,95.5,Medium
+S0653,Electronics,1,Male,3,79.0,Medium
+S0654,Mechanical,2,Male,4,91.3,High
+S0655,IT,1,Female,3,75.6,Medium
+S0656,Computer Engineering,4,Male,3,91.3,Medium
+S0657,IT,3,Female,6,81.2,High
+S0658,IT,2,Female,7,86.7,High
+S0659,Mechanical,2,Male,6,89.4,High
+S0660,Electronics,2,Female,2,75.7,Medium
+S0661,IT,3,Male,1,52.6,Medium
+S0662,Electrical,2,Female,5,71.3,Medium
+S0663,Electronics,4,Male,2,87.4,High
+S0664,Computer Engineering,2,Female,5,78.7,Low
+S0665,Computer Engineering,4,Male,3,66.8,Medium
+S0666,Computer Engineering,4,Male,5,75.0,Low
+S0667,Computer Engineering,1,Male,5,91.0,Medium
+S0668,Computer Engineering,4,Female,5,81.8,High
+S0669,Computer Engineering,1,Female,6,69.8,Low
+S0670,IT,4,Male,6,80.4,Medium
+S0671,Computer Engineering,2,Female,5,86.8,High
+S0672,Electrical,4,Male,5,69.9,Medium
+S0673,Computer Engineering,4,Female,2,73.4,Medium
+S0674,Electronics,4,Male,4,87.4,High
+S0675,IT,3,Female,4,77.4,High
+S0676,Electrical,2,Male,2,83.1,Medium
+S0677,Computer Engineering,1,Male,3,80.2,Low
+S0678,IT,2,Male,3,92.6,Low
+S0679,Electrical,1,Male,4,90.9,High
+S0680,Civil,3,Male,4,97.0,High
+S0681,Civil,2,Male,2,76.1,Medium
+S0682,Computer Engineering,4,Female,6,97.8,Medium
+S0683,Computer Engineering,3,Male,4,68.5,Low
+S0684,Mechanical,4,Male,4,42.1,Medium
+S0685,Electrical,1,Male,4,92.1,Medium
+S0686,Electronics,4,Male,6,86.5,High
+S0687,Electronics,4,Male,5,80.9,Medium
+S0688,Computer Engineering,2,Male,3,97.1,Medium
+S0689,Civil,3,Male,5,74.0,Medium
+S0690,Computer Engineering,3,Male,5,76.3,Medium
+S0691,IT,1,Male,5,83.6,Medium
+S0692,IT,2,Male,4,71.6,Low
+S0693,Electronics,2,Male,6,72.7,Medium
+S0694,Computer Engineering,1,Male,2,87.0,Low
+S0695,Computer Engineering,2,Female,9,58.1,Low
+S0696,Electronics,1,Male,2,78.1,High
+S0697,IT,1,Female,2,75.3,Medium
+S0698,Electronics,1,Male,2,85.9,Medium
+S0699,Computer Engineering,4,Female,3,87.2,High
+S0700,Electronics,2,Female,6,97.5,Medium
+S0701,Electronics,4,Male,2,83.2,High
+S0702,Computer Engineering,2,Female,4,91.7,Low
+S0703,IT,2,Male,3,91.1,High
+S0704,Computer Engineering,2,Male,9,86.5,High
+S0705,Computer Engineering,2,Female,4,64.8,High
+S0706,Electrical,1,Female,0,65.4,Low
+S0707,IT,3,Male,4,94.5,Medium
+S0708,Civil,1,Male,4,88.7,Low
+S0709,Computer Engineering,3,Male,3,66.3,Medium
+S0710,Mechanical,3,Male,3,54.8,High
+S0711,Civil,1,Female,1,66.2,Medium
+S0712,Electronics,1,Male,6,91.1,Medium
+S0713,IT,3,Male,8,83.2,Medium
+S0714,IT,2,Male,3,79.0,Medium
+S0715,IT,1,Male,2,81.4,High
+S0716,Electrical,4,Male,6,68.1,High
+S0717,Civil,1,Female,2,91.2,Low
+S0718,Electrical,3,Female,6,83.8,Medium
+S0719,Computer Engineering,4,Female,3,86.2,Medium
+S0720,Mechanical,1,Male,3,82.3,Medium
+S0721,Electrical,1,Female,1,85.8,High
+S0722,Computer Engineering,1,Female,3,88.4,High
+S0723,Computer Engineering,2,Female,4,74.2,Medium
+S0724,Mechanical,1,Male,4,66.2,Medium
+S0725,Electronics,3,Male,3,62.0,Medium
+S0726,Civil,1,Male,2,90.3,Medium
+S0727,Computer Engineering,2,Male,8,89.8,Low
+S0728,Civil,4,Male,3,84.1,Medium
+S0729,Computer Engineering,4,Male,4,91.2,Low
+S0730,Computer Engineering,3,Male,4,52.8,Medium
+S0731,Computer Engineering,2,Female,7,63.8,Medium
+S0732,Civil,3,Male,4,82.5,High
+S0733,Mechanical,2,Male,2,61.2,High
+S0734,Electronics,2,Female,2,62.7,Medium
+S0735,IT,1,Female,3,66.2,Low
+S0736,Civil,4,Female,4,73.6,Medium
+S0737,IT,2,Other,5,95.7,Medium
+S0738,Civil,1,Male,6,67.0,Medium
+S0739,IT,2,Female,6,84.5,High
+S0740,IT,2,Male,6,90.5,Medium
+S0741,IT,4,Male,2,82.1,Medium
+S0742,IT,3,Male,2,82.3,Medium
+S0743,Mechanical,3,Male,5,78.0,High
+S0744,Electronics,1,Male,4,90.6,High
+S0745,Computer Engineering,2,Female,3,53.0,Medium
+S0746,Electrical,2,Female,3,90.0,Medium
+S0747,IT,1,Male,5,90.3,Medium
+S0748,Electronics,1,Male,1,92.6,Low
+S0749,Electrical,3,Female,3,56.1,Medium
+S0750,Mechanical,1,Female,7,79.5,Medium
+S0751,Computer Engineering,2,Male,5,81.5,Low
+S0752,Electrical,1,Female,6,53.0,Low
+S0753,Mechanical,1,Male,5,86.5,Medium
+S0754,IT,1,Male,4,63.9,High
+S0755,Computer Engineering,4,Female,4,76.8,Medium
+S0756,Civil,4,Male,4,88.9,Medium
+S0757,Mechanical,4,Male,5,91.8,Medium
+S0758,Electronics,2,Female,3,85.2,Medium
+S0759,Electrical,1,Female,5,70.7,Medium
+S0760,Civil,2,Male,5,87.9,Medium
+S0761,Computer Engineering,2,Male,0,60.7,Low
+S0762,IT,4,Male,5,78.4,Medium
+S0763,Computer Engineering,1,Female,2,83.0,Medium
+S0764,Mechanical,2,Male,6,82.5,Medium
+S0765,Computer Engineering,1,Male,4,78.8,High
+S0766,Electronics,2,Female,3,67.7,Low
+S0767,Civil,3,Male,5,86.0,Medium
+S0768,Civil,2,Male,7,62.6,Medium
+S0769,IT,2,Male,4,87.8,High
+S0770,Civil,2,Female,2,74.2,Medium
+S0771,Computer Engineering,2,Male,5,89.8,High
+S0772,Civil,3,Male,3,60.9,High
+S0773,Computer Engineering,4,Female,0,76.9,Medium
+S0774,IT,4,Male,3,92.2,Medium
+S0775,Civil,3,Male,9,72.9,Medium
+S0776,Computer Engineering,2,Male,4,88.8,High
+S0777,Computer Engineering,3,Male,5,82.5,Low
+S0778,Mechanical,2,Male,4,45.6,Medium
+S0779,Mechanical,1,Male,2,72.4,Medium
+S0780,Mechanical,4,Male,3,88.7,Medium
+S0781,Mechanical,1,Male,4,65.6,Medium
+S0782,Electronics,4,Female,5,89.4,Medium
+S0783,Computer Engineering,2,Other,4,89.2,Low
+S0784,IT,3,Female,5,83.7,Medium
+S0785,Computer Engineering,3,Female,4,71.6,Medium
+S0786,Electrical,4,Male,4,70.3,High
+S0787,Electronics,3,Female,5,84.3,Medium
+S0788,IT,3,Male,5,71.3,High
+S0789,IT,1,Female,3,89.2,Medium
+S0790,Electrical,2,Other,3,89.3,Low
+S0791,Computer Engineering,1,Female,2,73.9,High
+S0792,Electronics,3,Other,1,73.4,Low
+S0793,Electronics,2,Male,6,68.5,High
+S0794,Electronics,3,Male,3,89.3,High
+S0795,Computer Engineering,1,Male,3,82.8,Medium
+S0796,Civil,1,Male,3,81.7,Medium
+S0797,Electrical,3,Male,5,83.4,Medium
+S0798,Electronics,1,Female,4,77.7,Medium
+S0799,Mechanical,1,Other,6,86.6,Medium
+S0800,Electrical,1,Male,3,83.9,Medium
+S0801,Mechanical,4,Female,1,96.5,Medium
+S0802,Computer Engineering,3,Female,3,75.4,Low
+S0803,Electronics,2,Female,7,64.8,High
+S0804,Electronics,2,Female,5,64.6,High
+S0805,IT,2,Male,4,90.1,Medium
+S0806,Mechanical,3,Female,6,87.1,High
+S0807,Electrical,3,Female,6,88.1,Medium
+S0808,Electrical,1,Male,2,74.1,Low
+S0809,IT,1,Male,3,85.7,Medium
+S0810,Computer Engineering,1,Female,6,76.0,Medium
+S0811,Electrical,3,Male,4,72.1,Medium
+S0812,Civil,3,Female,1,84.3,High
+S0813,Computer Engineering,1,Female,2,88.4,High
+S0814,Electrical,1,Male,5,82.5,Medium
+S0815,Civil,1,Male,3,75.9,High
+S0816,Electronics,4,Female,5,55.2,Low
+S0817,Electronics,2,Male,4,75.9,Low
+S0818,IT,3,Male,5,72.9,High
+S0819,Computer Engineering,3,Male,5,81.1,Medium
+S0820,IT,2,Male,3,82.5,Medium
+S0821,Civil,1,Female,6,76.1,Medium
+S0822,Computer Engineering,1,Male,6,58.7,Medium
+S0823,IT,3,Female,4,64.9,Low
+S0824,IT,3,Male,2,75.9,Medium
+S0825,Electronics,3,Male,3,88.0,Low
+S0826,Electrical,2,Female,5,79.5,Low
+S0827,IT,1,Female,5,77.5,Medium
+S0828,IT,4,Male,3,74.7,Medium
+S0829,Mechanical,3,Male,3,79.6,High
+S0830,IT,2,Male,3,40.1,Low
+S0831,Computer Engineering,4,Male,2,85.4,Low
+S0832,IT,3,Female,4,71.9,Medium
+S0833,Computer Engineering,3,Male,1,86.5,Medium
+S0834,Computer Engineering,3,Male,6,91.1,Low
+S0835,Electronics,4,Male,5,75.8,Low
+S0836,IT,3,Female,4,97.1,High
+S0837,Electrical,1,Other,2,89.4,Medium
+S0838,IT,2,Male,4,86.1,Medium
+S0839,Electronics,4,Female,5,75.2,Medium
+S0840,Mechanical,1,Male,5,82.6,Medium
+S0841,Computer Engineering,2,Male,5,65.1,Medium
+S0842,Mechanical,2,Female,6,85.2,Medium
+S0843,Computer Engineering,2,Female,6,94.9,High
+S0844,Electrical,3,Female,4,71.0,Low
+S0845,Computer Engineering,4,Male,4,75.1,High
+S0846,IT,1,Male,5,86.4,Low
+S0847,Computer Engineering,1,Female,6,68.9,Medium
+S0848,Electrical,1,Male,4,87.6,Low
+S0849,Electronics,4,Male,6,81.1,Low
+S0850,Electronics,3,Male,2,75.7,High
+S0851,Computer Engineering,2,Female,3,75.4,Medium
+S0852,Mechanical,4,Male,4,95.2,Low
+S0853,Computer Engineering,4,Male,5,44.2,High
+S0854,Electrical,4,Female,4,80.7,High
+S0855,Computer Engineering,4,Male,6,80.7,High
+S0856,Computer Engineering,1,Male,2,53.7,High
+S0857,Computer Engineering,3,Male,7,96.7,Medium
+S0858,IT,2,Male,2,75.9,High
+S0859,Electronics,4,Male,3,63.2,Medium
+S0860,Computer Engineering,3,Male,7,98.9,High
+S0861,Civil,3,Female,2,90.5,High
+S0862,IT,3,Male,3,78.7,Medium
+S0863,Electronics,1,Female,2,82.4,High
+S0864,IT,2,Male,5,87.0,Medium
+S0865,IT,4,Male,1,74.0,Medium
+S0866,Electronics,4,Male,4,87.5,Low
+S0867,Computer Engineering,1,Male,2,85.7,High
+S0868,Computer Engineering,1,Female,4,75.6,Medium
+S0869,Civil,1,Male,4,82.8,Medium
+S0870,Electrical,3,Male,3,88.1,Medium
+S0871,IT,4,Female,3,72.8,High
+S0872,Computer Engineering,1,Female,3,83.7,Medium
+S0873,Mechanical,2,Female,4,92.0,High
+S0874,IT,4,Male,4,82.9,High
+S0875,Computer Engineering,3,Female,3,84.4,Medium
+S0876,Computer Engineering,2,Male,5,94.8,Medium
+S0877,Mechanical,3,Male,3,79.3,High
+S0878,Mechanical,2,Male,5,80.5,High
+S0879,Computer Engineering,2,Male,1,80.3,High
+S0880,Computer Engineering,3,Male,6,75.6,Medium
+S0881,Computer Engineering,3,Male,6,85.9,High
+S0882,Mechanical,4,Female,2,83.0,Medium
+S0883,Computer Engineering,3,Male,6,75.9,Medium
+S0884,Computer Engineering,3,Male,6,96.2,High
+S0885,Civil,1,Male,4,78.5,Low
+S0886,Computer Engineering,2,Female,2,93.3,High
+S0887,Mechanical,1,Male,3,75.1,Medium
+S0888,Computer Engineering,1,Male,5,44.0,High
+S0889,Computer Engineering,3,Female,3,84.0,Low
+S0890,Computer Engineering,4,Female,1,62.5,Medium
+S0891,Mechanical,1,Male,3,93.2,High
+S0892,Civil,2,Female,4,74.0,Low
+S0893,Civil,4,Female,4,92.8,Low
+S0894,IT,1,Female,5,96.7,High
+S0895,Mechanical,3,Male,4,72.6,Medium
+S0896,Computer Engineering,3,Female,1,76.6,High
+S0897,IT,3,Male,4,74.5,Low
+S0898,Electrical,1,Male,2,95.7,Medium
+S0899,Computer Engineering,2,Male,4,59.0,High
+S0900,Computer Engineering,3,Male,2,69.0,Medium
+S0901,Computer Engineering,3,Male,3,75.3,Medium
+S0902,Computer Engineering,1,Female,2,61.3,Medium
+S0903,Computer Engineering,3,Male,4,94.8,High
+S0904,Electronics,1,Male,3,58.7,Medium
+S0905,IT,3,Male,6,88.8,Medium
+S0906,Electrical,1,Male,3,56.6,Low
+S0907,Civil,4,Female,6,74.3,Medium
+S0908,IT,2,Male,2,94.2,Medium
+S0909,Computer Engineering,2,Male,5,91.9,Medium
+S0910,IT,1,Male,4,68.4,Medium
+S0911,Electronics,2,Male,7,92.9,Low
+S0912,Computer Engineering,4,Male,4,94.1,Low
+S0913,Mechanical,4,Female,2,65.6,Medium
+S0914,IT,2,Female,4,87.3,Medium
+S0915,Electronics,2,Male,8,58.9,High
+S0916,IT,3,Female,3,82.0,Medium
+S0917,IT,4,Female,2,89.5,Low
+S0918,Electrical,3,Female,5,78.1,Medium
+S0919,Civil,2,Male,4,84.9,Low
+S0920,Computer Engineering,2,Male,2,77.0,High
+S0921,Civil,3,Male,6,50.3,High
+S0922,Electronics,1,Female,3,52.2,Medium
+S0923,Electrical,3,Female,2,87.0,Medium
+S0924,Civil,2,Male,8,73.3,Medium
+S0925,IT,3,Male,5,47.2,Medium
+S0926,Computer Engineering,1,Female,4,81.5,High
+S0927,Computer Engineering,3,Female,2,99.5,Low
+S0928,Electronics,2,Other,3,79.3,Medium
+S0929,Mechanical,3,Female,6,87.8,Medium
+S0930,Computer Engineering,1,Male,0,89.5,High
+S0931,Computer Engineering,3,Male,3,94.1,Medium
+S0932,Civil,3,Female,3,68.3,High
+S0933,Electrical,3,Male,5,81.7,Low
+S0934,Electronics,3,Male,0,75.9,Medium
+S0935,Computer Engineering,3,Female,5,51.6,High
+S0936,Computer Engineering,4,Male,4,91.0,Medium
+S0937,Computer Engineering,1,Female,2,78.8,Medium
+S0938,Electrical,4,Male,4,53.7,Low
+S0939,Computer Engineering,2,Female,6,78.4,Low
+S0940,Electronics,1,Male,8,77.2,Low
+S0941,Computer Engineering,1,Male,3,80.0,High
+S0942,Electronics,2,Male,2,81.3,Medium
+S0943,Mechanical,3,Male,3,66.7,High
+S0944,Civil,3,Female,3,84.7,Medium
+S0945,Computer Engineering,3,Female,2,81.6,Medium
+S0946,Computer Engineering,2,Male,1,66.8,Medium
+S0947,Computer Engineering,2,Male,7,94.5,High
+S0948,Electrical,1,Male,5,73.7,High
+S0949,Civil,2,Male,8,63.2,High
+S0950,Electronics,2,Female,3,93.7,Low
+S0951,Electronics,1,Female,4,74.6,Medium
+S0952,Mechanical,1,Female,5,87.0,Medium
+S0953,Computer Engineering,3,Female,7,89.2,High
+S0954,Electrical,3,Male,5,72.2,Medium
+S0955,IT,4,Female,1,93.0,Medium
+S0956,IT,4,Female,3,97.6,Medium
+S0957,Electronics,3,Female,3,70.6,Medium
+S0958,Computer Engineering,2,Female,7,96.1,Low
+S0959,Computer Engineering,3,Male,3,85.0,High
+S0960,Mechanical,3,Female,4,87.1,Medium
+S0961,Computer Engineering,1,Male,0,58.0,High
+S0962,Electronics,2,Male,4,44.6,High
+S0963,Computer Engineering,4,Male,3,90.7,Medium
+S0964,IT,2,Female,4,93.9,Medium
+S0965,IT,3,Female,4,79.0,Low
+S0966,IT,3,Female,2,92.8,High
+S0967,Mechanical,1,Female,6,61.0,Medium
+S0968,IT,2,Male,5,64.1,Medium
+S0969,Electronics,2,Female,4,93.0,Medium
+S0970,IT,1,Male,2,80.6,Medium
+S0971,Mechanical,1,Male,5,82.4,Medium
+S0972,Electrical,4,Male,1,80.4,Medium
+S0973,Mechanical,1,Female,4,81.9,High
+S0974,Computer Engineering,2,Female,5,82.7,High
+S0975,Computer Engineering,2,Male,0,87.6,Medium
+S0976,Computer Engineering,4,Male,3,62.8,Medium
+S0977,Electronics,1,Female,1,76.2,High
+S0978,Computer Engineering,2,Male,3,60.2,Low
+S0979,Electronics,4,Female,3,92.1,High
+S0980,Electronics,4,Female,1,54.9,Medium
+S0981,IT,1,Male,2,80.4,Medium
+S0982,Civil,4,Male,6,70.3,Medium
+S0983,Computer Engineering,2,Female,7,91.9,Medium
+S0984,Computer Engineering,2,Female,2,76.8,High
+S0985,Mechanical,1,Male,5,85.2,Low
+S0986,Electronics,1,Female,3,47.5,Medium
+S0987,Mechanical,3,Male,5,65.7,Medium
+S0988,IT,2,Male,0,86.3,High
+S0989,Computer Engineering,2,Female,5,76.6,Medium
+S0990,Civil,3,Female,2,70.3,High
+S0991,Civil,3,Male,1,78.4,Medium
+S0992,Mechanical,1,Female,1,83.4,Low
+S0993,Computer Engineering,3,Male,4,80.4,High
+S0994,Electronics,1,Male,1,59.5,Low
+S0995,IT,3,Male,4,84.6,Medium
+S0996,Computer Engineering,3,Female,4,90.1,Low
+S0997,Electrical,4,Male,2,64.5,Medium
+S0998,Computer Engineering,1,Male,3,68.1,Medium
+S0999,Electrical,1,Male,3,81.3,Medium
+S1000,IT,2,Female,7,93.8,Medium
